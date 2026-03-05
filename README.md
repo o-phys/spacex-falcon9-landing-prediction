@@ -90,11 +90,6 @@ All models achieved similar predictive performance with an average **test accura
 This shows that machine learning models can effectively predict Falcon 9 landing outcomes using historical launch data.
 
 ---
-
-## 📂 Repository Structure
-
----
-
 ## 🛠 Technologies Used
 
 - Python  
